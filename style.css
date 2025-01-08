@@ -17,8 +17,24 @@ body{
     min-height: 100vh;
 }
 
+img{
+    width: 500px;
+}
+
+h1{
+    color:#9d1212;
+    font-size: 120px;
+    font-style: oblique;
+    font-weight: 800;
+    line-height: 38px;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 26px;
+
+}
+
 h2{
-    font-style: normal;
+    font-style: oblique;
     font-weight: 400;
     font-size: 34px;
     line-height: 38px;
